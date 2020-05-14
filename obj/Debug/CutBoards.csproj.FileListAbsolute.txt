@@ -1,0 +1,9 @@
+c:\users\nick\documents\visual studio 2017\Projects\CutBoards\CutBoards\obj\Debug\CutBoards.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2017\Projects\CutBoards\CutBoards\obj\Debug\CutBoards.Form1.resources
+c:\users\nick\documents\visual studio 2017\Projects\CutBoards\CutBoards\obj\Debug\CutBoards.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2017\Projects\CutBoards\CutBoards\obj\Debug\CutBoards.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2017\Projects\CutBoards\CutBoards\bin\Debug\CutBoards.exe.config
+c:\users\nick\documents\visual studio 2017\Projects\CutBoards\CutBoards\bin\Debug\CutBoards.exe
+c:\users\nick\documents\visual studio 2017\Projects\CutBoards\CutBoards\bin\Debug\CutBoards.pdb
+c:\users\nick\documents\visual studio 2017\Projects\CutBoards\CutBoards\obj\Debug\CutBoards.exe
+c:\users\nick\documents\visual studio 2017\Projects\CutBoards\CutBoards\obj\Debug\CutBoards.pdb
